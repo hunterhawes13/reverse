@@ -26,6 +26,7 @@ uses JavaScript's built in methods to accomplish the task.
 
 ## Code Example
 
+#####The first solution 
 ```
 function FirstReverse(str) { 
   
@@ -37,7 +38,7 @@ function FirstReverse(str) {
 FirstReverse()
 ```
 
-or
+#####The second solution 
 
 ```
 function FirstReverse(str) { 
