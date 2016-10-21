@@ -4,7 +4,9 @@
 
 Have the function FirstReverse(str) take the str parameter being passed and return the string in reversed order. 
 
-The first solution uses JavaScript's built in methods to accomplish the task.
+#####The first solution 
+
+uses JavaScript's built in methods to accomplish the task.
 
 1. The split() method splits a String object into an array of strings by separating the string into substrings.
 
@@ -12,7 +14,7 @@ The first solution uses JavaScript's built in methods to accomplish the task.
 
 3. The join() method joins all elements of an array into a string.
 
-The second example 
+#####The second example 
 
 1. Create a variable that stores an empty string.
 
